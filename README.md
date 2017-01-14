@@ -1,4 +1,5 @@
 # twitterbot
+aplikasi ini digunakan untuk melakukan tweet multiaccount sekaligus dengan menggunakan fasilitas OAuth API dari twitter
 
 ada 2 file utama:<br/>
 1. twitterbot.py (file yang dijalankan menggunakan terminal/shell)<br/>
